@@ -5,7 +5,7 @@ KPI's Requirement <br />
 2. Average order value
 3. Total pizza's sold
 4. Total orders
-5. Average pizza's per order<br />
+5. Average pizza's per order <br />
 Charts Requirements<br />
 1. Daily trend for total orders
 2. Monthly trend for total orders
