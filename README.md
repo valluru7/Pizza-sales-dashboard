@@ -1,6 +1,8 @@
 # Pizza-sales-dashboard <br />
 Problem statement<br />
+
 KPI's Requirement <br />
+
 1. Total Revenue
 2. Average order value
 3. Total pizza's sold
