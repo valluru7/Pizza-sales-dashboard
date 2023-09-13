@@ -1,11 +1,11 @@
 # Pizza-sales-dashboard
-Problem statement
+#Problem statement\\
 KPI's Requirement 
 1. Total Revenue
 2. Average order value
 3. Total pizza's sold
 4. Total orders
-5. Average pizza's per order
+5. Average pizza's per order\\
 Charts Requirements
 1. Daily trend for total orders
 2. Monthly trend for total orders
