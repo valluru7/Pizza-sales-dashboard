@@ -6,7 +6,9 @@ KPI's Requirement <br />
 3. Total pizza's sold
 4. Total orders
 5. Average pizza's per order <br />
-Charts Requirements<br />
+
+Charts Requirements <br />
+
 1. Daily trend for total orders
 2. Monthly trend for total orders
 3. Percentage of sales by pizza category
